@@ -1,0 +1,46 @@
+{
+  "ownerName": "decode.id",
+  "ownerNumber": "6289674310267",
+  "mode": "public",
+  "replyType": "mess1",
+  "setPrefix": "all",
+  "antiCall": false,
+  "antiSpam": false,
+  "autoBlockCmd": false,
+  "autoLevel": false,
+  "autoReport": true,
+  "autoRead": false,
+  "autoJoin": false, 
+  "pairing_code": false,
+  "limitAwal": 25,
+  "pterodactyl": {
+    "localhost": "https://n.tokopanel.biz.id", 
+    "application_key": "ptla_mJUkl1QpTryQOUcgXJgY2BfCtXy8jVTMfb3OpnEVKtD",
+    "locations_id": 1,
+    "eggs_id": 17,
+  }, 
+  "local_github": {
+    "name": "FanDev404", 
+    "repository": "file", 
+    "token": ""
+  }, 
+  "local_backup": {
+    "status": false, 
+    "time": "30 minutes"
+  }, 
+  "local_key": {
+    "open_ai": "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", 
+    "remove_background": "1qzWCLPForGAV39Q3FbPY6vX"
+  }, 
+  "vipSewa": [
+    "120363161769315461@g.us",
+    "120363194541118564@g.us", 
+    "120363145101924132@g.us", 
+    "120363168969048224@g.us", 
+    "120363025319017794@g.us", 
+    "120363042523431219@g.us", 
+    "120363188112847196@g.us", 
+    "120363027997771207@g.us", 
+    "120363227639587463@g.us"
+  ]
+}
